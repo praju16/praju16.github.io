@@ -1,2 +1,4 @@
 # praju16.github.io
-Personal Info Website
+Hi,
+  I am prajwal. This is my personal website.
+ 
