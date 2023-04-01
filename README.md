@@ -1,4 +1,5 @@
-# praju16.github.io
+# 👋 Welcome to my blog.
+
 Hi,
   I am prajwal. This is my personal website.
  
